@@ -1,0 +1,30 @@
+[2023-03-03 20:41:58] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-03-03 20:42:04] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-03-03 20:42:56] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-03-03 20:45:00] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-03-03 20:45:00] [WARNING]: 将在 5秒 后继续. 
+[2023-03-03 20:45:39] [WARNING]: 登录失败: 你的用户身份已失效，为保证帐号安全，请你重新登录。 
+[2023-03-03 20:46:23] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-03-03 20:48:09] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-03-03 20:48:09] [WARNING]: 将在 5秒 后继续. 
+[2023-03-03 20:48:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-03 20:48:42] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-03-03 20:48:45] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-03-03 20:48:45] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-03-03 20:49:15] [WARNING]: 警告: 心跳功能已关闭，若非预期，请检查配置文件。 
+[2023-03-03 20:54:53] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"private","time":1677848088,"self_id":1399756764,"sub_type":"friend","message_id":-1225124476,"user_id":3271319075,"target_id":1399756764,"message":"你跟chatgpt有什么关系，他是你谁呢？","raw_message":"你跟chatgpt有什么关系，他是你谁呢？","font":0,"sender":{"age":0,"nickname":"helloworld","sex":"unknown","user_id":3271319075}}
+ 到 http://127.0.0.1:5555/ 失败: Post "http://127.0.0.1:5555/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
+[2023-03-03 21:00:35] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"private","time":1677848430,"self_id":1399756764,"sub_type":"friend","message_id":1290261568,"user_id":1578513892,"target_id":1399756764,"message":"你好","raw_message":"你好","font":0,"sender":{"age":0,"nickname":"?自定义?","sex":"unknown","user_id":1578513892}}
+ 到 http://127.0.0.1:5555/ 失败: Post "http://127.0.0.1:5555/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
+[2023-03-03 21:02:57] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-03 21:02:59] [WARNING]: 警告: 心跳功能已关闭，若非预期，请检查配置文件。 
+[2023-03-03 21:04:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-03 21:04:40] [WARNING]: 警告: 心跳功能已关闭，若非预期，请检查配置文件。 
+[2023-03-03 21:06:46] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-03 21:06:49] [WARNING]: 警告: 心跳功能已关闭，若非预期，请检查配置文件。 
+[2023-03-03 21:07:38] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"private","time":1677848853,"self_id":1399756764,"sub_type":"friend","font":0,"sender":{"age":0,"nickname":"?自定义?","sex":"unknown","user_id":1578513892},"message_id":-856312645,"user_id":1578513892,"target_id":1399756764,"message":"你是谁，你从哪里来，你要干什么去","raw_message":"你是谁，你从哪里来，你要干什么去"}
+ 到 http://127.0.0.1:5555/ 失败: Post "http://127.0.0.1:5555/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
+[2023-03-03 21:08:33] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"private","time":1677848908,"self_id":1399756764,"sub_type":"friend","message_id":-1130414028,"user_id":1578513892,"target_id":1399756764,"message":"那算了，换个问题，细胞膜的作用是什么","raw_message":"那算了，换个问题，细胞膜的作用是什么","font":0,"sender":{"age":0,"nickname":"?自定义?","sex":"unknown","user_id":1578513892}}
+ 到 http://127.0.0.1:5555/ 失败: Post "http://127.0.0.1:5555/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
+[2023-03-03 21:09:45] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"private","time":1677848980,"self_id":1399756764,"sub_type":"friend","user_id":1578513892,"target_id":1399756764,"message":"你确定细胞膜是细胞的重要组成部分吗》","raw_message":"你确定细胞膜是细胞的重要组成部分吗》","font":0,"sender":{"age":0,"nickname":"?自定义?","sex":"unknown","user_id":1578513892},"message_id":1385242904}
+ 到 http://127.0.0.1:5555/ 失败: Post "http://127.0.0.1:5555/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
