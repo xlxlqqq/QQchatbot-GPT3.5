@@ -1,6 +1,6 @@
 {
     "openai": {
-         "api_key": "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",
+         "api_key": "your api key",
          "img_size": "1024x1024"
     },
     "chatgpt": {
@@ -14,12 +14,12 @@
         "preset": "你是我的人工智能助手，名字叫xlxlqqq"
     },
     "qq_bot": {
-        "qq_no": "1399756764",
+        "qq_no": "123456789",
         "cqhttp_url": "http://localhost:8600",
         "max_length": 9999,
         "image_path": "../QBot/data/images",
         "auto_confirm": false,
-        "admin_qq": "1578513892"
+        "admin_qq": "111222333"
     },
     "text_to_image": {
         "font_size": 30,
